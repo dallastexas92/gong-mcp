@@ -30,7 +30,6 @@ Copy `.env.example` to `.env` and add your credentials:
 
 ```bash
 cp .env.example .env
-# Edit .env with your credentials
 ```
 
 ### 4. Configure Claude Desktop
